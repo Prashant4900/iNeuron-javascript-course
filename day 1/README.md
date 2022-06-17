@@ -14,3 +14,21 @@ React: It is one of the most popular web development frameworks of javascript, w
 Node: It is a javascript library used to build the backend application.
 
 ## 2. What is the difference between client-side and server-side?
+
+Client-Side: the term client-side is generally apparel when we talk about the frontend or the code which runs the user's computer/browser. It's the responsable for UI.
+
+Server-Side: The term server-side is generally apparel when we talk about the backend of the code which runs on the server. It is responsible for Application behaviour.
+
+
+## 3. What is Nodejs?
+
+Node js is an open-source and cross-platform Javascript runtime environment which uses the chrome V8 engine to run the javascript code.
+
+## 4. Explain Scope in JavaScript?
+
+Scope: Scope determines the accessibility of variables. It tells how many variables are accessible to the outer function and module.
+
+Javascript has three types of Scope:
+1. Local Scope: The variable defined inside the {} is called the local scope.
+2. Function Scope: The variable defined inside the function is called function scope.
+3. Globale Scope: By Default, every variable in javascript is the global scope.
