@@ -45,3 +45,7 @@ Ref: [freecodecamp](https://www.freecodecamp.org/news/synchronous-vs-asynchronou
 Single-threaded Language.
 
 Ref: [Article](https://dev.to/bbarbour/if-javascript-is-single-threaded-how-is-it-asynchronous-56gd)
+
+## 7. Explain DOM in your own word?
+
+Need more time to understand.
