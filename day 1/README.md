@@ -32,3 +32,11 @@ Javascript has three types of Scope:
 1. Local Scope: The variable defined inside the {} is called the local scope.
 2. Function Scope: The variable defined inside the function is called function scope.
 3. Globale Scope: By Default, every variable in javascript is the global scope.
+
+Ref: [w3schools](https://www.w3schools.com/js/js_scope.asp)
+
+## 5. JavaScript is asynchronous or synchronous?
+
+As we know, java-scripts is a single thread, so it should be synchronous, but sometimes it does not work excepted and shows unpacked behaviour like asynchronous. This is because of the callback queue(web API).
+
+Ref: [freecodecamp](https://www.freecodecamp.org/news/synchronous-vs-asynchronous-in-javascript/#:~:text=JavaScript%20is%20a%20single%2Dthreaded,language%20with%20lots%20of%20flexibility.)
