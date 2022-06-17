@@ -40,3 +40,8 @@ Ref: [w3schools](https://www.w3schools.com/js/js_scope.asp)
 As we know, java-scripts is a single thread, so it should be synchronous, but sometimes it does not work excepted and shows unpacked behaviour like asynchronous. This is because of the callback queue(web API).
 
 Ref: [freecodecamp](https://www.freecodecamp.org/news/synchronous-vs-asynchronous-in-javascript/#:~:text=JavaScript%20is%20a%20single%2Dthreaded,language%20with%20lots%20of%20flexibility.)
+
+## 6. JavaScript is Single-threaded or Multi-threaded?
+Single-threaded Language.
+
+Ref: [Article](https://dev.to/bbarbour/if-javascript-is-single-threaded-how-is-it-asynchronous-56gd)
